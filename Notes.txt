@@ -1,0 +1,13 @@
+SQLAlchemy - An open-source SQL toolkit and an object relational mapper (ORM) for python. it gives developers powerful, 
+flexible and pythonic way to interact with relational databases without needing to write raw SQL queries for daily tasks.
+There are two components - 1-> SQLAlchemy ORM 2-> SQLAlchemy Core
+
+1-> SQLAlchemy ORM - Maps python classes directly to databases tables
+2-> SQLAlchemy core - (Python SQL Expression Language & Connection Pooling)
+
+An ORM (Object-Relational Mapper) is a programming technique that lets you interact with
+a database using your language's object-oriented code instead of writing raw SQL.
+
+Pydantic : Pydantic is a powerful data validation and settings management library for Python.
+Pydantic enforces those types at runtime. If you pass a string to a field that expects an integer, Pydantic will
+actively try to convert ("coerce") it, or throw a clean error if it cannot.
